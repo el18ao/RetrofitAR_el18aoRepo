@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 49b8cf51f6f9f426a8e6f193ae19d31c
+  - enabled: 0
+    path: Assets/Scenes/App History/S1_1_SinglePlaced.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/App History/S1_2_SinglePlacedWithUI.unity
+    guid: 8a41f1884827c43aca667eb6c351b2c9
+  - enabled: 1
+    path: Assets/Scenes/S1_3_TrainingContent.unity
+    guid: 41cc9331876db4793808a33121db2758
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 345037de1f2e94793a8a94abb2d0f2a1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3f1c5e1a0b6974b048d9ea970a4334cb, type: 2}
